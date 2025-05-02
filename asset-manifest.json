@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dailyfaith/static/css/main.09231fa5.css",
-    "main.js": "/dailyfaith/static/js/main.cac2b670.js",
+    "main.css": "/dailyfaith/static/css/main.fd4fa0ee.css",
+    "main.js": "/dailyfaith/static/js/main.93a02dfe.js",
     "static/js/453.1129e91d.chunk.js": "/dailyfaith/static/js/453.1129e91d.chunk.js",
-    "static/media/golfcourse.jpg": "/dailyfaith/static/media/golfcourse.cd41ec5da7cdb264407a.jpg",
+    "static/media/golfcourse.jpg": "/dailyfaith/static/media/golfcourse.6475e0c09470ca160574.jpg",
     "index.html": "/dailyfaith/index.html",
-    "main.09231fa5.css.map": "/dailyfaith/static/css/main.09231fa5.css.map",
-    "main.cac2b670.js.map": "/dailyfaith/static/js/main.cac2b670.js.map",
+    "main.fd4fa0ee.css.map": "/dailyfaith/static/css/main.fd4fa0ee.css.map",
+    "main.93a02dfe.js.map": "/dailyfaith/static/js/main.93a02dfe.js.map",
     "453.1129e91d.chunk.js.map": "/dailyfaith/static/js/453.1129e91d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.09231fa5.css",
-    "static/js/main.cac2b670.js"
+    "static/css/main.fd4fa0ee.css",
+    "static/js/main.93a02dfe.js"
   ]
 }
