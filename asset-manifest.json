@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/dailyfaith/static/css/main.b009ed52.css",
-    "main.js": "/dailyfaith/static/js/main.dc505f41.js",
+    "main.js": "/dailyfaith/static/js/main.1736d5aa.js",
     "static/js/453.1129e91d.chunk.js": "/dailyfaith/static/js/453.1129e91d.chunk.js",
+    "static/media/golfcourse.jpg": "/dailyfaith/static/media/golfcourse.cd41ec5da7cdb264407a.jpg",
     "index.html": "/dailyfaith/index.html",
     "main.b009ed52.css.map": "/dailyfaith/static/css/main.b009ed52.css.map",
-    "main.dc505f41.js.map": "/dailyfaith/static/js/main.dc505f41.js.map",
+    "main.1736d5aa.js.map": "/dailyfaith/static/js/main.1736d5aa.js.map",
     "453.1129e91d.chunk.js.map": "/dailyfaith/static/js/453.1129e91d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b009ed52.css",
-    "static/js/main.dc505f41.js"
+    "static/js/main.1736d5aa.js"
   ]
 }
